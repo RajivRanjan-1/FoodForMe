@@ -14,3 +14,22 @@
 .logo{
     width: 75px;
 }
+.search{
+    padding: 10px;
+}
+.card{
+    padding: 5px;
+    margin: 5px;
+    width: 200px;
+}
+.card:hover{
+    border: 1px solid black;
+    cursor: pointer;
+}
+.resimg{
+    width: 100%;
+}
+.card-container{
+    display: flex;
+    flex-wrap: wrap;
+}
