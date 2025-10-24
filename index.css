@@ -20,13 +20,13 @@
 .card{
     padding: 5px;
     margin: 5px;
-    width: 200px;
+    width: 275px;
 }
 .card:hover{
     border: 1px solid black;
     cursor: pointer;
 }
-.resimg{
+.restlogo{
     width: 100%;
 }
 .card-container{
