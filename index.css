@@ -33,3 +33,9 @@
     display: flex;
     flex-wrap: wrap;
 }
+.filter-btn{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
